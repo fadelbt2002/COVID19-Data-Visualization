@@ -1,6 +1,7 @@
 # COVID-19 Data Visualization: A Picture of the Pandemic
 
-![COVID-19 Data Visualization](assets/GUI_Interface.png)
+(![COVID-19 Data Visualization](./assets/GUI_Interface.png)
+)
 
 ## Overview
 
