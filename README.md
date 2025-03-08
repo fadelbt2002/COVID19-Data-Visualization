@@ -1,6 +1,6 @@
 # COVID-19 Data Visualization: A Picture of the Pandemic
 
-![COVID-19 Data Visualization](screenshots/world_map.png)
+![COVID-19 Data Visualization](covidblue_e)
 
 ## Overview
 
