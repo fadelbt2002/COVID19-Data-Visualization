@@ -4,4 +4,3 @@ This directory contains additional documentation for the COVID-19 Data Visualiza
 
 ## Contents:
 - `Countries.pdf`: Reference for country names used in the dataset
-- `user_guide.md`: Detailed instructions for using the application
