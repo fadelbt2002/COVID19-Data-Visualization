@@ -55,7 +55,7 @@ Download the following files from these repositories:
 ![World Map](Images/2D_Bubble_Map.jpg)
 
 ### US States Ranking
-![US States](Images/US_Ranking.png)
+![US States](Images/US_Ranking.jpg)
 
 ### Country Comparison
 ![Country Comparison](Images/Comparison.jpg)
