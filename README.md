@@ -99,20 +99,6 @@ This project demonstrates several important data analysis and visualization tech
 4. **Interactive User Interface**: Creating a functional app for data exploration
 5. **3D Data Visualization**: Innovative approach to representing global data on a 3D model
 
-## Challenges and Solutions
-
-One significant challenge was processing the large volume of time-series data, particularly for the 3D visualizations. The solution involved creating a separate preprocessed dataset (`CovidDataFor3DPlots.csv`) with aggregated metrics, significantly improving performance.
-
-Another challenge was the lack of standard naming conventions for countries across different datasets. This was resolved through a systematic data cleaning process, mapping variant names to standard forms.
-
-## Future Enhancements
-
-- Integration with live data sources for real-time updates
-- Additional statistical analyses including prediction models
-- Expanded comparison tools for multiple countries/regions
-- Enhanced visualization options including heatmaps and animated time-lapse
-- Export functionality for generated visualizations
-
 ## Author
 
 - Your Name
