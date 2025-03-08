@@ -61,7 +61,7 @@ Download the following files from these repositories:
 ![Country Comparison](Images/Comparison.jpg)
 
 ### 3D Globe Visualization
-![3D Globe](Images/3D_World_Map.png)
+![3D Globe](Images/3D_World_Map.jpg)
 
 ## Application Usage Guide
 
