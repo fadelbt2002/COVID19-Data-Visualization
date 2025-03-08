@@ -52,16 +52,16 @@ Download the following files from these repositories:
 ## Screenshots and Visualizations
 
 ### World Map of COVID-19 Cases
-![World Map](screenshots/world_map.png)
+![World Map](Images/2D_Bubble_Map.jpg)
 
 ### US States Ranking
-![US States](screenshots/us_states.png)
+![US States](Images/US_Ranking.png)
 
 ### Country Comparison
-![Country Comparison](screenshots/country_comparison.png)
+![Country Comparison](Images/Comparison.jpg)
 
 ### 3D Globe Visualization
-![3D Globe](screenshots/3d_globe.png)
+![3D Globe](Images/3D_World_Map.png)
 
 ## Application Usage Guide
 
