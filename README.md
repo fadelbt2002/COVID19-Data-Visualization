@@ -47,6 +47,7 @@ Download the following files from these repositories:
 - `time_series_covid19_confirmed_US.csv`
 - `time_series_covid19_deaths_global.csv`
 - `us-states.csv`
+- 'CovidDataFor3DPlots.csv'
 
 ## Screenshots and Visualizations
 
