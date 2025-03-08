@@ -101,7 +101,7 @@ This project demonstrates several important data analysis and visualization tech
 
 ## Author
 
-- Your Name
+- Fadel Batal
 
 ## License
 
